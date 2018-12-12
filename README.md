@@ -3,6 +3,8 @@
 A small app built with React Native and Expo.
 Allows you to search an area on the map and save the jobs you wish to apply to.
 
+![Screenshot](media/IMG-1500.PNG) ![Screenshot](media/IMG-1501.PNG)
+
 ### Install
 
 To install and use with Expo:
