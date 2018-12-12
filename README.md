@@ -19,9 +19,9 @@ For example:
 
 ```
 let { type, accessToken } = await Expo.Google.logInAsync({
-		androidClientId: YOUR_ANDROID_CLIENT_ID,
-    iosClientId: YOUR_IOS_CLIENT_ID,
-    scopes: ['profile', 'email'],
-    behavior: 'web'
-	});
+	androidClientId: YOUR_ANDROID_CLIENT_ID,
+    	iosClientId: YOUR_IOS_CLIENT_ID,
+   	scopes: ['profile', 'email'],
+    	behavior: 'web'
+});
 ```
