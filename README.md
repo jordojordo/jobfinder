@@ -25,3 +25,4 @@ let { type, accessToken } = await Expo.Google.logInAsync({
     	behavior: 'web'
 });
 ```
+
